@@ -1,7 +1,10 @@
 # Yandex-Praktikum-Projects
 Все проекты за время обучения в Яндекс.Практикум
-<table width = "100%">
-<tr><th width = "20%">Название проекта </th><th width = "50%"> Описание </th><th width = "30%"> Используемые библиотеки </th></tr>
+<table width="100%">
+  <col width="20%" valign="top">
+  <col width="50%" valign="top">
+  <col width="30%" valign="top">
+<tr><td>Название проекта </td><td> Описание </td><td> Используемые библиотеки </td></tr>
 <tr><td><a href = 'https://github.com/kristina-molchanova90/Yandex-Praktikum-Projects/tree/main/01_reliability_research'> 01.Проект Исследование надежности заемщиков</a> </td><td> Задача - исследовать, как влияют различные факторы (и в особенности количество детей и семейное положение)на погашение кредита в срок. Исследование производится на основе исторических данных </td><td> pandas </td></tr>
 <tr><td><a href = 'https://github.com/kristina-molchanova90/Yandex-Praktikum-Projects/tree/main/02_ads_apartment_sales'>02.Проект "Исследование объявлений о продаже квартир"</a> </td><td> Цель проекта - определить, как различные факторы (площадь, высота потолков, удаленность от центра) влияют на рыночную стоитмость квартиры. В работе используются данные, введенные непосредственно пользователем и полученные автоматически на основании картографических данных. Анализ производится на основании исторических данных за несколько лет </td><td> pandas, numpy, matplotlib.pyplot </td></tr>
 <tr><td><a href='https://github.com/kristina-molchanova90/Yandex-Praktikum-Projects/tree/main/03_promising_tariff_telecom_company'>03.Проект "Определение перспективного тарифа для телеком компании</a></td><td> Цель проекта - определить, какой тариф приносит большую выручку и получить рекомендации для проведения рекламной кампании </td><td> pandas, numpy, matplotlib.pyplot, scipy, calendar </td></tr>
