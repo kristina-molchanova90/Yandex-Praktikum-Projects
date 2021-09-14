@@ -19,3 +19,5 @@ pandas, numpy, matplotlib.pyplot ,seaborn, datetime, sklearn.tree, sklearn.ensem
 | LGBMRegressor     | 1.62E+03       | 1.61E+03         | 4.39671   |
 
 Как можно видеть, скорость предсказания у модели CatBoostRegressor выше, чем у модели LGBMRegressor, однако у модели LGBMRegressor заметно выше качество и скорость обучения. Поэтому можем рекомендовать ее для определения стоимости автомобилей
+
+Если проект не открывается, его можно посмотреть <a href = "https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/blob/main/10_car_price_determine/10_car_price_determine.ipynb">здесь</a>
