@@ -10,3 +10,5 @@ pandas, numpy, random, sklearn.linear_model, sklearn.metrics, sklearn.model_sele
 **Вывод**<br>
 Согласно поставленному условию, вероятность убытков должна быть не более 2,5%. Этому условию соответсвтует только регион geo_data_1. Помимо всего прочего, в данном регоине, по результатам работы процедуры bootstrap, самая высокая средняя прибыль, а также только в этом регионе с вероятностью 95% возможна прибыль (свыше 155 млн.руб.), а не убыток, как во всех остальных регионах.
 Таким образом, для разработки предлагается регион geo_data_1
+
+Если проект не открывается, его можно посмотреть <a href = "https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/blob/main/07_location_well_choice/07_location_well_choice.ipynb">здесь</a>
