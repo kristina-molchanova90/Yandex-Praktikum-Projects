@@ -26,3 +26,5 @@ pandas, numpy, matplotlib.pyplot, matplotlib.legend, matplotlib.dates, seaborn,c
 Самое лучшее значение метрики RMSE на тестовых данных у модели LGBMRegressor, у этой же модели второй результат по метрике RMSE на тренировочных данных и относительно низкое время обучения: данную модель можно признать лучшей.
 Модель CatBoostRegressor оказалась более склонной к переобучению, поэтому ее лучшей назвать нельзя.
 Модели RandomForestRegressor, Ridge, LinearRegression также очень склонны к переобучению и значение метрики RMSE на тестовых данных довольно высокое.
+
+Если проект не открывается, его можно посмотреть <a href = "https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/blob/main/11_taxi_orders_predictions/11_taxi_orders_predictions.ipynb">здесь</a>
