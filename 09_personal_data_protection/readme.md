@@ -15,3 +15,5 @@ pandas, numpy, sklearn.linear_model, sklearn.metrics, random
 <b>3.</b> Умножить признаки на сгенерированную обратимую матрицу<br>
 
 Данный алгоритм может быть применим для шифрования без потери качества модели линейной регрессиимомент 
+
+Если проект не открывается, его можно посмотреть <a href = "https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/blob/main/09_personal_data_protection/09_personal_data_protection.ipynb">здесь</a>
