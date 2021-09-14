@@ -20,3 +20,5 @@ pandas, numpy, random, sklearn.tree, sklearn.ensemble, sklearn.linear_model, skl
 | LogisticRegression                                                       | 0.696                                                   | 0.701                                                      | -                                                       | -                                                       |
 
 Наиболее высокое значение accuracy покзала модель ForestClassifier на полных данных при max_depth = 7 и n_estimators = 1. Accuarcy данной модели на валидационной выбоке 77,6%, на тестовой - 78,69%. Все значения accuracy для модели данных без calls заметно ниже, чем для полных данных, что говорит о том, что модель на полных данных более точна.
+
+Если проект не открывается, его можно посмотреть <a href = "https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/blob/main/05_tariff_recommendations/05_tariff_recommendations.ipynb">здесь</a>
