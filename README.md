@@ -1,6 +1,6 @@
 # Yandex-Praktikum-Projects
-Все проекты за время обучения в Яндекс.Практикум
-Также все проекты можно посмотреть в <a href = 'https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/tree/main/'>nbviewer</a>
+Все проекты за время обучения в Яндекс.Практикум<br>
+Также все проекты можно посмотреть в <a href = 'https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/tree/main/'>nbviewer</a>.
 <table width="100%" width="1000">
 <tr><td width = "200">Название проекта </td><td width = "500">Описание </td><td width = "300"> Используемые библиотеки </td></tr>
 <tr><td><a href = 'https://github.com/kristina-molchanova90/Yandex-Praktikum-Projects/tree/main/01_reliability_research'> 01.Проект Исследование надежности заемщиков</a> </td><td> Задача - исследовать, как влияют различные факторы (и в особенности количество детей и семейное положение)на погашение кредита в срок. Исследование производится на основе исторических данных </td><td> pandas </td></tr>
