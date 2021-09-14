@@ -18,3 +18,5 @@ pandas, numpy, matplotlib.pyplot, scipy, calendar, pymystem3
 Также при проведении рекламной кампании и планировании новых продуктов можно ориентироваться на принятые гипотезы:
 "Сердние пользовательские рейтинги платформ Xbox One и PC одинаковые": игры, успешные на Xbox также могут быть популярны на PC и наоборот.
 "Средние пользовательские рейтинги для жанров Action и Sports различны": делая выбор в пользу одного из жанров можно ориентироваться на данные о его пользовательских рейтингах.
+
+Если проект не открывается, его можно посмотреть <a href = "https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/blob/main/03_promising_tariff_telecom_company/03_promising_tariff_telecom_company.ipynb">здесь</a>
