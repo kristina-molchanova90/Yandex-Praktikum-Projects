@@ -19,3 +19,5 @@ pandas, numpy,  sklearn.linear_model, sklearn.tree, sklearn.ensemble, , sklearn.
 | Модель на данных без RowNumber, CustomerID, Surname | 0.60684                     | 0.58152                |
 
 На тестовой выборке на модели на данных без RowNumber, CustomerID, Surname значение всех метрик оказалось ниже, чем на валидационной. Возможно, у полученной модели немного выше склонность к переобучению, хотя об этом сложно судить только по одному набору тестовых данных
+
+Если проект не открывается, его можно посмотреть <a href = "https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/blob/main/06_customer_churn/06_customer_churn.ipynb">здесь</a>
