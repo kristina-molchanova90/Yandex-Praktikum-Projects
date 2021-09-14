@@ -14,3 +14,5 @@ pandas, numpy,  sklearn.feature_extraction, nltk.stem, nltk.corpus, sklearn.line
 | LGBMClassifier balanced     | 0.843972         | 0.751486        |
 
 Как можно видеть, качество абсолютно всех рассмотренных моделей намного выше, чем у dummyclassifier. Наиболее низкая степень переобучения -у SGDClassifier, однако у LogisticRegression и LGBMClassifier качество несколько выше. При этом у LGBMClassifier степень переобучения заметно ниже, чем у логистической регрессии. Это говорит о том, что среди рассмотренных моделей LGBMClassifier - наиболее корректно работающая модель
+
+Если проект не открывается, его можно посмотреть <a href="https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/blob/main/12_toxic_comments/12_toxic_comments.ipynb">здесь</a>
