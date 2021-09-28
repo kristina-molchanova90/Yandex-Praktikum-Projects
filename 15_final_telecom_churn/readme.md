@@ -25,3 +25,6 @@ pandas, numpy, matplotlib.pyplot, seaborn, datetime, phik, warnings, dateutil, s
 | 1 |        0.918895 |         0.869411 |       0.664908 |          0.815534 |   0.732558 | GradientBoostingClassifier |
 | 2 |        0.923899 |         0.885025 |       0.693931 |          0.851133 |   0.764535 |         CatBoostClassifier |
 | 3 |        0.919138 |         0.869411 |       0.667546 |          0.813505 |   0.733333 |             LGBMClassifier |
+
+
+Если проект не открывается, его можно посмотреть <a href = 'https://nbviewer.jupyter.org/github/kristina-molchanova90/Yandex-Praktikum-Projects/blob/main/15_final_telecom_churn/15_telecom_final_version.ipynb'>здесь</a>
